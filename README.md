@@ -9,6 +9,11 @@ hello-gpt-4o/.
 
 3. Meta AI. Llama 3, 2024. URL https://llama.meta.com/llama3/. Accessed: 2024-06-24.
 
+4. Wei-Lin Chiang, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng,
+Siyuan Zhuang, Yonghao Zhuang, Joseph E. Gonzalez, Ion Stoica, and Eric P. Xing. Vicuna: An
+open-source chatbot impressing gpt-4 with 90%* chatgpt quality, **March 2023**. URL https:
+//lmsys.org/blog/2023-03-30-vicuna/.
+
 # arXiv
 
 1. Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, and Daniel Cohen-Or. Cross-image
@@ -20,7 +25,7 @@ attention for zero-shot appearance transfer. arXiv preprint arXiv:2311.03335, 20
 
 Focus on year citation format (i.e., 2023a, 2023b, and 2023c).
 
-2-1. Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, et al. Rt-2: Vision-language-action models transfer web knowledge to robotic control. arXiv preprint arXiv:2307.15818, 2023a.
+2-1. Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, et al. Rt-2: Vision-language-action models transfer web knowledge to robotic control. arXiv preprint arXiv:2307.15818, **2023a**.
 
 2-2. Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Joseph Dabis, Chelsea Finn,
 Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Jasmine Hsu, Julian Ibarz, Brian
@@ -29,14 +34,23 @@ Pertsch, Jornell Quiambao, Kanishka Rao, Michael S. Ryoo, Grecia Salazar, Pannag
 Kevin Sayed, Jaspiar Singh, Sumedh Sontakke, Austin Stone, Clayton Tan, Huong Tran, Vincent
 Vanhoucke, Steve Vega, Quan Vuong, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, and
 Brianna Zitkovich. Rt-1: Robotics transformer for real-world control at scale. Robotics science
-and systems (RSS), 2023b.
+and systems (RSS), **2023b**.
 
 2-3. Anthony Brohan, Yevgen Chebotar, Chelsea Finn, Karol Hausman, Alexander Herzog, Daniel Ho,
 Julian Ibarz, Alex Irpan, Eric Jang, Ryan Julian, et al. Do as i can, not as i say: Grounding
-language in robotic affordances. In Conference on Robot Learning (CoRL), pp. 287–318. PMLR,
-2023c.
+language in robotic affordances. In Conference on Robot Learning (CoRL), pp. 287–318. **PMLR**,
+**2023c**.
 
 : PMLR is one of publisher
+
+3. Same last name, but different first name
+
+3-1. **Jiaxing Huang**, Jingyi Zhang, Kai Jiang, Han Qiu, and Shijian Lu. Visual instruction tuning towards
+general-purpose multimodal model: A survey. arXiv preprint arXiv:2312.16602, **2023a**.
+
+3-2. **Wenlong Huang**, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, and Li Fei-Fei. Voxposer:
+Composable 3d value maps for robotic manipulation with language models. arXiv preprint
+arXiv:2307.05973, **2023b**.
 
 # Conference
 ## CVPR
@@ -47,11 +61,26 @@ In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 : Authors, Title, CVPR, Year.
 
 Mu Cai, Haotian Liu, Dennis Park, Siva Karthik Mustikovela, Gregory P. Meyer, Yuning Chai, and
-Yong Jae Lee. Vip-llava: Making large multimodal models understand arbitrary visual prompts. In
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),
+Yong Jae Lee. Vip-llava: Making large multimodal models understand arbitrary visual prompts. **In
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**,
 2024.
 
 : Authors, Title, Proceedings_full_name (CVPR), Year.
+
+## ICCV
+
+Carl Doersch, Abhinav Gupta, and Alexei A Efros. Unsupervised visual representation learning by
+context prediction. **In Proceedings of the International Conference on Computer Vision (ICCV)**,
+pp. 1422–1430, 2015.
+
+## NeurIPS
+
+Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, and Chuang Gan.
+3d-llm: Injecting the 3d world into large language models. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+
+## ICML
+
+Yunfan Jiang, Agrim Gupta, Zichen Zhang, Guanzhi Wang, Yongqiang Dou, Yanjun Chen, Li FeiFei, Anima Anandkumar, Yuke Zhu, and Linxi Fan. Vima: General robot manipulation with multimodal prompts. **In Proceedings of the International Conference on Machine Learning (ICML)**, 2023.
 
 # Journal
 ## Remote Sensing
