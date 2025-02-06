@@ -1,5 +1,5 @@
 <details>
-<summary><h2><strong> URL </strong></h2></summary>
+<summary><h1><strong> URL </strong></h1></summary>
 
 1. OpenAI. New models and developer products announced at devday, 2023.
 URL https://openai.com/blog/new-models-and-developer-products-announced-at-devday
@@ -8,11 +8,11 @@ URL https://openai.com/blog/new-models-and-developer-products-announced-at-devda
 across audio, vision, and text in real time., 2024. URL https://openai.com/index/
 hello-gpt-4o/.
 
-3. Meta AI. Llama 3, 2024. URL https://llama.meta.com/llama3/. Accessed: 2024-06-
-24.
+3. Meta AI. Llama 3, 2024. URL https://llama.meta.com/llama3/. Accessed: 2024-06-24.
 </details>
 
-## arXiv
+<details>
+<summary><h1><strong> arXiv </strong></h1></summary>
 
 1. Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, and Daniel Cohen-Or. Cross-image
 attention for zero-shot appearance transfer. arXiv preprint arXiv:2311.03335, 2023.
@@ -40,7 +40,9 @@ language in robotic affordances. In Conference on Robot Learning (CoRL), pp. 287
 2023c.
 
 : PMLR is one of publisher
+</details>
 
+<details>
 # Conference
 ## CVPR
 
@@ -55,6 +57,8 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 2024.
 
 : Authors, Title, Proceedings_full_name (CVPR), Year.
+
+</details>
 
 # Journal
 ## Remote Sensing
