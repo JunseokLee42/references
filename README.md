@@ -1,3 +1,6 @@
+> This repo is about a series of references which are written in AI-related conference or journal.
+> I wrote below contents based on the [one]((https://arxiv.org/pdf/2406.20095v1)) of VLA papers accepted in ICLR 2025.
+
 # URL
 
 1. OpenAI. New models and developer products announced at devday, 2023.
