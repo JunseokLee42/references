@@ -3,8 +3,8 @@
 > I hope this repo will be helpful for readers to study how to cite paper.
 
 > 이 저장소는 AI와 관련된 학회나 저널의 참고문헌들을 모아놓은 곳입니다.
-> 저는 ICLR 2025에 승인된 VLA paper 중 [LLaRA](https://arxiv.org/pdf/2406.20095v1)를 기반으로 아래의 내용을 작성하였습니다.
-> 저는 이 저장소가 독자들이 논문 인용 방법을 공부하는데 도움이 되길 바랍니다.
+> ICLR 2025에 승인된 VLA paper 중 [LLaRA](https://arxiv.org/pdf/2406.20095v1)를 기반으로 아래의 내용을 작성하였습니다.
+> 이 저장소가 독자들이 논문 인용 방법을 공부하는데 도움이 되길 바랍니다.
 
 # URL
 
