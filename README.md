@@ -9,26 +9,25 @@
 # URL
 
 1. OpenAI. New models and developer products announced at devday, 2023.
-URL https://openai.com/blog/new-models-and-developer-products-announced-at-devday
+<ins>URL https://openai.com/blog/new-models-and-developer-products-announced-at-devday</ins>
 
 2. OpenAI. Hello gpt-4o: We’re announcing gpt-4o, our new flagship model that can reason
-across audio, vision, and text in real time., 2024. URL https://openai.com/index/
-hello-gpt-4o/.
-
-3. OpenAI. GPT-4 technical report. https://arxiv.org/abs/2303.08774, 2023.
+across audio, vision, and text in real time., 2024. <ins>URL https://openai.com/index/
+hello-gpt-4o/.</ins>
    
-4. Meta AI. Llama 3, 2024. URL https://llama.meta.com/llama3/. Accessed: 2024-06-24.
+3. Meta AI. Llama 3, 2024. <ins>URL https://llama.meta.com/llama3/. Accessed: 2024-06-24.</ins>
 
-5. Wei-Lin Chiang, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng,
+4. Wei-Lin Chiang, Zhuohan Li, Zi Lin, Ying Sheng, Zhanghao Wu, Hao Zhang, Lianmin Zheng,
 Siyuan Zhuang, Yonghao Zhuang, Joseph E. Gonzalez, Ion Stoica, and Eric P. Xing. Vicuna: An
-open-source chatbot impressing gpt-4 with 90%* chatgpt quality, **March 2023**. URL https:
-//lmsys.org/blog/2023-03-30-vicuna/.
+open-source chatbot impressing gpt-4 with 90%* chatgpt quality, <ins>March 2023. URL https:
+//lmsys.org/blog/2023-03-30-vicuna/.</ins>
 
 # arXiv
 
 1. Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, and Daniel Cohen-Or. Cross-image
-attention for zero-shot appearance transfer. arXiv preprint arXiv:2311.03335, 2023.
+attention for zero-shot appearance transfer. <ins>arXiv preprint arXiv:2311.03335, 2023.</ins>
 
+2. OpenAI. GPT-4 technical report. https://arxiv.org/abs/2303.08774, 2023.
 : Authors, Title, arXiv, Year.
 
 ### Publications with the same 1st author(not the only one)
@@ -86,10 +85,7 @@ pp. 1422–1430, 2015.
 
 ## NeurIPS
 
-Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, and Chuang Gan.
-3d-llm: Injecting the 3d world into large language models. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
-
-Xiang Li, Jinghuan Shang, Srijan Das, and Michael S. Ryoo. Does self-supervised learning really improve reinforcement learning from pixels? **In Advances in Neural Information Processing Systems (NeurIPS), volume 35, pp. 30865–30881**, 2022.
+Ricky T. Q. Chen, Brandon Amos, and Maximilian Nickel. 2021. Neural spatio-temporal point processes. <ins>In International Conference on Learning Representations</ins>
 
 ## ICML
 
@@ -110,6 +106,18 @@ Denis Yarats, Amy Zhang, Ilya Kostrikov, Brandon Amos, Joelle Pineau, and Rob Fe
 ## ICLR
 
 Ricky T. Q. Chen, Brandon Amos, and Maximilian Nickel. 2021. Neural spatio-temporal point processes. <ins>In International Conference on Learning Representations.</ins>
+
+## TACL
+
+Bhuwan Dhingra, Jeremy R Cole, Julian Martin Eisenschlos, Daniel Gillick, Jacob Eisenstein, and William W Cohen. 2022. Timeaware language models as temporal knowledge bases. <ins>Transactions of the Association for Computational Linguistics, 10:257–273</ins>
+
+## EMNLP
+
+Dong-Ho Lee, Jay Pujara, Mohit Sewak, Ryen White, and Sujay Jauhar. 2023. Making large language models better data creators. <ins>In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing</ins>, pages 15349–15360.
+
+## ACL
+
+Or Honovich, Thomas Scialom, Omer Levy, and Timo Schick. 2023. Unnatural instructions: Tuning language models with (almost) no human labor. <ins>In The 61st Annual Meeting Of The Association For Computational Linguistics</ins>.
 
 # Journal
 
