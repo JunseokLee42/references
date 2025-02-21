@@ -1,9 +1,9 @@
 > This repo is about a series of references which are written in AI-related conference or journal.
-> I wrote below contents based on the [one](https://arxiv.org/pdf/2406.20095v1) of VLA papers accepted in ICLR 2025.
+> I wrote below contents based on the [one](https://arxiv.org/pdf/2406.20095v1) and [the other](https://arxiv.org/pdf/2411.14042).
 > I hope this repo will be helpful for readers to study how to cite paper.
 
 > 이 저장소는 AI와 관련된 학회나 저널의 참고문헌들을 모아놓은 곳입니다.
-> ICLR 2025에 승인된 VLA paper 중 [LLaRA](https://arxiv.org/pdf/2406.20095v1)를 기반으로 아래의 내용을 작성하였습니다.
+> [Paper 1](https://arxiv.org/pdf/2406.20095v1), [Paper 2](https://arxiv.org/pdf/2411.14042)를 기반으로 아래의 내용을 작성하였습니다.
 > 이 저장소가 독자들이 논문 인용 방법을 공부하는데 도움이 되길 바랍니다.
 
 # URL
@@ -106,6 +106,10 @@ Jinghuan Shang, Kumara Kahatapitiya, Xiang Li, and Michael S. Ryoo. Starformer: 
 ## AAAI
 
 Denis Yarats, Amy Zhang, Ilya Kostrikov, Brandon Amos, Joelle Pineau, and Rob Fergus. Improving sample efficiency in model-free reinforcement learning from images. **In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), pp. 10674–10681**, 2021.
+
+## ICLR
+
+Ricky T. Q. Chen, Brandon Amos, and Maximilian Nickel. 2021. Neural spatio-temporal point processes. <ins>In International Conference on Learning Representations.</ins>
 
 # Journal
 
